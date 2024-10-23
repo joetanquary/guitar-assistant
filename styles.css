@@ -1,0 +1,19 @@
+.string {
+    display: flex;
+    flex-direction: row;
+}
+
+
+.fretboard {
+    display: flex;
+    flex-direction: column;
+}
+
+.note {
+    width: 100px;
+    height: 25px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
